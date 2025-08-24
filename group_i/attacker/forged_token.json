@@ -1,0 +1,10 @@
+{
+  "ClientID": "2a00:23c8:afd9:e101:4d5:e821:5b53:e91f",
+  "Expiry": 1754521285,
+  "Nonce": "i2-forged-nonce-001",
+  "Scope": {
+    "dst_port": 443,
+    "protocol": "TCP"
+  },
+  "Signature": "G++MitFETLFlFr1fMtWn4po+aL8rCr5oAIIPNu/8tLwkGzznC9Fjd+M2rKXkJsyJHKauMhsZpL3ynOXnVMd9oQ=="
+}

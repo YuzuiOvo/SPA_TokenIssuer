@@ -1,0 +1,10 @@
+{
+  "ClientID": "2a00:23c8:afd9:e101:4d5:e821:5b53:e91f",
+  "Expiry": 1754516181,
+  "Nonce": "h1-multiclient-shared-nonce-001",
+  "Scope": {
+    "dst_port": 443,
+    "protocol": "TCP"
+  },
+  "Signature": "71Gt/piq9KJg2kasSEwtVJS0Cj9Ly4GNqR3DTm3lv0AdTkvGHlFQ+zCKH9QQQoveZie+LuxsxHwJXmOFn2T1nw=="
+}

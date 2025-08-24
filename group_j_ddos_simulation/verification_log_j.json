@@ -1,0 +1,10 @@
+{
+  "total_received": 20,
+  "accepted": 0,
+  "dropped_signature_invalid": 0,
+  "dropped_expired_token": 20,
+  "dropped_nonce_reuse": 0,
+  "dropped_ip_mismatch": 0,
+  "dropped_missing_token": 0,
+  "dropped_other": 0
+}

@@ -1,0 +1,287 @@
+{
+  "missing_token": [
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 20,
+      "dropped_other": 0,
+      "round": 1
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 20,
+      "dropped_other": 0,
+      "round": 2
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 20,
+      "dropped_other": 0,
+      "round": 3
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 20,
+      "dropped_other": 0,
+      "round": 4
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 20,
+      "dropped_other": 0,
+      "round": 5
+    }
+  ],
+  "invalid_signature": [
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 1
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 2
+    },
+    {
+      "total_received": 45,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 25,
+      "dropped_other": 0,
+      "round": 3
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 4
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 5
+    }
+  ],
+  "expired_token": [
+    {
+      "total_received": 36,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 16,
+      "dropped_other": 0,
+      "round": 1
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 2
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 3
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 4
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 20,
+      "dropped_expired_token": 0,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 5
+    }
+  ],
+  "nonce_reuse": [
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 1
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 2
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 3
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 4
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 5
+    }
+  ],
+  "ip_mismatch": [
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 1
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 2
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 3
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 4
+    },
+    {
+      "total_received": 20,
+      "accepted": 0,
+      "dropped_signature_invalid": 0,
+      "dropped_expired_token": 20,
+      "dropped_nonce_reuse": 0,
+      "dropped_ip_mismatch": 0,
+      "dropped_missing_token": 0,
+      "dropped_other": 0,
+      "round": 5
+    }
+  ]
+}

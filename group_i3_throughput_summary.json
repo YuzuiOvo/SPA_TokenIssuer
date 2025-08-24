@@ -1,0 +1,32 @@
+[
+  {
+    "round": 1,
+    "accepted": 500,
+    "duration_sec": 9.360980033874512,
+    "throughput_pps": 53.413
+  },
+  {
+    "round": 2,
+    "accepted": 500,
+    "duration_sec": 9.36165976524353,
+    "throughput_pps": 53.409
+  },
+  {
+    "round": 3,
+    "accepted": 500,
+    "duration_sec": 9.356566190719604,
+    "throughput_pps": 53.438
+  },
+  {
+    "round": 4,
+    "accepted": 500,
+    "duration_sec": 9.349129915237427,
+    "throughput_pps": 53.481
+  },
+  {
+    "round": 5,
+    "accepted": 500,
+    "duration_sec": 9.346246242523193,
+    "throughput_pps": 53.497
+  }
+]

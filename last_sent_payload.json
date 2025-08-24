@@ -1,0 +1,15 @@
+{
+  "PacketToken": "kHMPomWUC+Qia4N3rD0nWhKVlxIMT/aqHWOP8phG2/I=",
+  "Nonce": "i1-delay-bb4a7a95",
+  "Timestamp": 1754517387,
+  "Token": {
+    "ClientID": "2a00:23c8:afd9:e101:4d5:e821:5b53:e91f",
+    "Expiry": 1754520334,
+    "Nonce": "c5004cc9-d87b-476c-b0ea-2568f6711761",
+    "Scope": {
+      "dst_port": 443,
+      "protocol": "TCP"
+    },
+    "Signature": "0x9hganIdjcpsK732NLUkqyn523QDkfhyKtIIYDsuUravrN7mlkYHufUh86PPrOl86mjG4gIKye/EPZu2Hh3DA=="
+  }
+}

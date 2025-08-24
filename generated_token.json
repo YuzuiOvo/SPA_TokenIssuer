@@ -1,0 +1,10 @@
+{
+  "ClientID": "2a00:23c8:afd9:e101:4d5:e821:5b53:e91f",
+  "Expiry": 1755298752,
+  "Nonce": "133926cc-9a82-4c74-ab83-07fa089df8e9",
+  "Scope": {
+    "dst_port": 443,
+    "protocol": "TCP"
+  },
+  "Signature": "fEWqCtOlVEa+Cd7SdYBM82u4TqdpasRfpgBSUePTE+HSiGI9u824Ffi+Sfg7D6an2xWjjsMhT+pnZ+ezJlDNog=="
+}

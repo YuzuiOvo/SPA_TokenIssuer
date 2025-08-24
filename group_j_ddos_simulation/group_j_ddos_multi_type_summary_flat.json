@@ -1,0 +1,57 @@
+[
+  {
+    "total_received": 100,
+    "accepted": 0,
+    "dropped_signature_invalid": 0,
+    "dropped_expired_token": 0,
+    "dropped_nonce_reuse": 0,
+    "dropped_ip_mismatch": 0,
+    "dropped_missing_token": 100,
+    "dropped_other": 0,
+    "attack_type": "missing_token"
+  },
+  {
+    "total_received": 125,
+    "accepted": 0,
+    "dropped_signature_invalid": 100,
+    "dropped_expired_token": 0,
+    "dropped_nonce_reuse": 0,
+    "dropped_ip_mismatch": 0,
+    "dropped_missing_token": 25,
+    "dropped_other": 0,
+    "attack_type": "invalid_signature"
+  },
+  {
+    "total_received": 116,
+    "accepted": 0,
+    "dropped_signature_invalid": 0,
+    "dropped_expired_token": 100,
+    "dropped_nonce_reuse": 0,
+    "dropped_ip_mismatch": 0,
+    "dropped_missing_token": 16,
+    "dropped_other": 0,
+    "attack_type": "expired_token"
+  },
+  {
+    "total_received": 100,
+    "accepted": 0,
+    "dropped_signature_invalid": 0,
+    "dropped_expired_token": 0,
+    "dropped_nonce_reuse": 100,
+    "dropped_ip_mismatch": 0,
+    "dropped_missing_token": 0,
+    "dropped_other": 0,
+    "attack_type": "nonce_reuse"
+  },
+  {
+    "total_received": 100,
+    "accepted": 0,
+    "dropped_signature_invalid": 0,
+    "dropped_expired_token": 0,
+    "dropped_nonce_reuse": 0,
+    "dropped_ip_mismatch": 100,
+    "dropped_missing_token": 0,
+    "dropped_other": 0,
+    "attack_type": "ip_mismatch"
+  }
+]
